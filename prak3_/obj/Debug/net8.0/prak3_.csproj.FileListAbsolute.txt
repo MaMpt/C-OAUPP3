@@ -1,0 +1,14 @@
+D:\MPT\C# ОАиП\Проекты\prak3_\prak3_\bin\Debug\net8.0\prak3_.exe
+D:\MPT\C# ОАиП\Проекты\prak3_\prak3_\bin\Debug\net8.0\prak3_.deps.json
+D:\MPT\C# ОАиП\Проекты\prak3_\prak3_\bin\Debug\net8.0\prak3_.runtimeconfig.json
+D:\MPT\C# ОАиП\Проекты\prak3_\prak3_\bin\Debug\net8.0\prak3_.dll
+D:\MPT\C# ОАиП\Проекты\prak3_\prak3_\bin\Debug\net8.0\prak3_.pdb
+D:\MPT\C# ОАиП\Проекты\prak3_\prak3_\obj\Debug\net8.0\prak3_.GeneratedMSBuildEditorConfig.editorconfig
+D:\MPT\C# ОАиП\Проекты\prak3_\prak3_\obj\Debug\net8.0\prak3_.AssemblyInfoInputs.cache
+D:\MPT\C# ОАиП\Проекты\prak3_\prak3_\obj\Debug\net8.0\prak3_.AssemblyInfo.cs
+D:\MPT\C# ОАиП\Проекты\prak3_\prak3_\obj\Debug\net8.0\prak3_.csproj.CoreCompileInputs.cache
+D:\MPT\C# ОАиП\Проекты\prak3_\prak3_\obj\Debug\net8.0\prak3_.dll
+D:\MPT\C# ОАиП\Проекты\prak3_\prak3_\obj\Debug\net8.0\refint\prak3_.dll
+D:\MPT\C# ОАиП\Проекты\prak3_\prak3_\obj\Debug\net8.0\prak3_.pdb
+D:\MPT\C# ОАиП\Проекты\prak3_\prak3_\obj\Debug\net8.0\prak3_.genruntimeconfig.cache
+D:\MPT\C# ОАиП\Проекты\prak3_\prak3_\obj\Debug\net8.0\ref\prak3_.dll
